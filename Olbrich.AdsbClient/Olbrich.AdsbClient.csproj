@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <UserSecretsId>dotnet-Olbrich.AdsbClient-B20325B1-5651-442D-8625-D9739642A03F</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Geolocation.NetStandard" Version="1.1.1" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Olbrich.AircraftDatabaseParser\Olbrich.AircraftDatabaseParser.csproj" />
+    </ItemGroup>
+</Project>

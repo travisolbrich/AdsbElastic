@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrich.AdsbClient", "Olbrich.AdsbClient\Olbrich.AdsbClient.csproj", "{90640CC9-946B-4344-B274-D0DD746884C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrich.AircraftDatabaseParser", "Olbrich.AircraftDatabaseParser\Olbrich.AircraftDatabaseParser.csproj", "{B01E61B9-EA5B-4DB4-B9E4-73C764D6A266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90640CC9-946B-4344-B274-D0DD746884C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90640CC9-946B-4344-B274-D0DD746884C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90640CC9-946B-4344-B274-D0DD746884C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90640CC9-946B-4344-B274-D0DD746884C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01E61B9-EA5B-4DB4-B9E4-73C764D6A266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01E61B9-EA5B-4DB4-B9E4-73C764D6A266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01E61B9-EA5B-4DB4-B9E4-73C764D6A266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01E61B9-EA5B-4DB4-B9E4-73C764D6A266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
